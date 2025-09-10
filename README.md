@@ -69,6 +69,7 @@ Individual regression models for top 5 predictors
 ### Dependencies
 ```bash
 pip install pandas numpy scikit-learn matplotlib seaborn scipy statsmodels
+```
 
 ### Model Pipeline
 1. Data cleaning and feature engineering
@@ -97,9 +98,11 @@ This project demonstrates comprehensive modeling techniques and achieves R² of 
 
 ## Repository Structure
 
+```
 ├── Regression Modelling of Ames Housing Prices.ipynb
 ├── From Insights to Predictions. Regression Modelling of Ames Housing Prices.pdf
 └── README.md
+```
 
 ## Getting Started
 
@@ -107,10 +110,11 @@ This project demonstrates comprehensive modeling techniques and achieves R² of 
    ```bash
    git clone https://github.com/rebeccastalleymoores/ames-housing-eda-regression
    cd ames-housing-eda-regression
+   ```
 
 2. **Run Analysis**
-  - Open `Regression Modelling of Ames Housing Prices.ipynb` in Jupyter
-  - Execute cells sequentially for complete analysis reproduction
+   - Open `Regression Modelling of Ames Housing Prices.ipynb` in Jupyter
+   - Execute cells sequentially for complete analysis reproduction
 
 ## Author
 
