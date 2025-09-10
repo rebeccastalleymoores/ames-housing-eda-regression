@@ -10,6 +10,7 @@ This project develops predictive models for house prices in Ames, Iowa, progress
 - Build predictive models using features identified through comprehensive EDA
 - Compare multiple regression approaches to determine optimal modelling strategy
 - Address multicollinearity and outlier influence through iterative refinement
+- Identify the most important predictive features of sold house prices
 - Provide actionable insights for real estate stakeholders
 
 ## 🏠 Dataset
